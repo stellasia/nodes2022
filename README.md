@@ -4,10 +4,15 @@ Accompanying code for my talk at the
 [NODES 2022](https://hopin.com/events/nodes-2022/registration) 
 conference titled: "Building a Python/Neo4j OGM".
 
+## Video
+
+[![image](https://img.youtube.com/vi/DKziks5jQvc/maxresdefault.jpg)](https://youtu.be/DKziks5jQvc)
+
+## Usage
+
 Each folder can be seen as a new "branch", where features are
 added incrementally.
 
-## Usage
 
     pip install -r requirements.txt
     export PYTHONPATH=.$PYTHONPATH
